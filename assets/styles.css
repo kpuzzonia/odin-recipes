@@ -19,6 +19,11 @@ hr {
     margin: 0 25px;
 }
 
+hr,
+.recipe-image {
+    border: 2px solid #FCA311;
+}
+
 .table-of-contents {
     margin: 25px;
 }
@@ -35,11 +40,6 @@ hr {
 
 .table-of-contents ul a:hover {
     color: #FCA311;
-}
-
-.recipe-image, 
-hr {
-    border: 2px solid #FCA311;
 }
 
 .recipe-block {
